@@ -1,0 +1,6 @@
+Hello World!!!
+This is a new Line
+Appending the text using append mode.
+First Line 
+Second Line 
+Third Line 
